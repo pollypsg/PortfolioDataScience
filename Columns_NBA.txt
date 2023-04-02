@@ -1,0 +1,33 @@
+
+Rk - Rank
+Player - Jogador
+Pos - Position
+Age - Idade do Jogador em 1 de Fevereiro da temporada
+Tm - Team
+G - Games
+GS - Games Started
+MP - Minutes Played Per Game
+FG - Field Goals Per Game
+FGA - Field Goals Attempts Per Game
+FG% - Field Goal Percentage
+3P - 3-point Field Goals Per Game
+3PA - 3-Point Field Goal Attempts Per Game
+3P% - 3-Point Field Goal Percentage
+2P - 2-point field goals per game
+2PA- 2-point field goal attempts per game
+2P% - 2-point field goal percentage
+eFG% - Effetive field goal percentage 
+this statistic adjusts for the fact that a 3-poit field goal is worth one more point than a 2-point field goal.
+essa estatística se ajusta ao fato de que um field goal de 3 points vale um ponto a mais do que um field goal de 2 pontos.
+FT - Free Throws Per Game
+FTA - Free Throws Attempts Per Game
+FT% - Free Throws Percentage
+ORB - Offensive Rebounds Per Game
+DRB - Defensive Rebounds Per Game
+TRB - Total Rebounds Per Game
+AST - Assists per game
+STL - Steals per game
+BLK - Blocks per game
+TOV - Turnovers per game
+PF - Personal Fouls Per game
+PTS - Points per game
